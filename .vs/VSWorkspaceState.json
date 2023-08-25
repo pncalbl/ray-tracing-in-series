@@ -1,0 +1,17 @@
+{
+  "OutputFoldersPerTargetSystem": {
+    "本地计算机": [
+      "out\\build\\x64-Debug",
+      "out\\install\\x64-Debug"
+    ]
+  },
+  "ExpandedNodes": [
+    "",
+    "\\ray_tracer",
+    "\\ray_tracer\\camera",
+    "\\ray_tracer\\common",
+    "\\ray_tracer\\object",
+    "\\ray_tracer\\utils"
+  ],
+  "PreviewInSolutionExplorer": false
+}
